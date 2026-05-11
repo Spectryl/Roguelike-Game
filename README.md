@@ -8,4 +8,3 @@ Pick up drops to increase shooting speed and get a better score, or survive as l
 
 Also check out the new stats screen to see all of your stats!
 
-godotengine.org/license
